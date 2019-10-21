@@ -1,0 +1,75 @@
+
+html {
+    background-image: linear-gradient(260deg, #64a0c7 0%, #5ec3df 100%);
+}
+body {
+  font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+  margin: 10px;
+}
+
+h1 {
+    font-family: 'Bungee Shade', cursive;
+    color: rgb(26, 26, 26);
+    font-size: 60px;
+    text-align: center;
+    margin: 1px;
+    border-radius: 4px;
+    border: none;
+}
+
+
+p {
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: black;
+    text-shadow: 0 0 px white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.divboard {
+    background-position: center;
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;  
+    margin-bottom: 2%; 
+    padding: 15px;
+
+}
+
+div {
+    text-align: center;
+
+}
+
+#divboard > div {
+    clear: both;
+}
+
+.buttons {
+    width: 30px;
+    height: 30px;
+    background: #1b85c7;
+    margin: 1px;
+    color: #fff;
+    border-radius: 4px;
+    border-color: aliceblue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    vertical-align: text-top;
+
+}
+
+
+.buttons:hover {
+	background:linear-gradient(to bottom, #0b3868 5%, #367db3 100%);
+}
+
+.underrubrik {
+    background-position: center;
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;  
+    margin-bottom: 2%; 
+    padding: 15px;
+}
