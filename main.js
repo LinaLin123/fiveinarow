@@ -1,4 +1,4 @@
-let size = prompt("Ange storlek på spelbrädan");
+let size = 25
 let divBoard = document.querySelector('div')
 let tmpRad = 1
 
